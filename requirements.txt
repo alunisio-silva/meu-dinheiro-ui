@@ -1,0 +1,5 @@
+fastapi 
+unicorn[standard]
+sqlalchemy
+pydantic-settings
+psycopg2-binary
